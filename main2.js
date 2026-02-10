@@ -50,14 +50,12 @@ document.addEventListener("DOMContentLoaded", function () {
   ];
   
   const blackmail = [
-    "Please",
-    "I'm begging you",
-    "I'm crying",
-    "I'm sad",
-    "HUHUHUHU",
-    "Please Say Yes",
-    "I'm gonna cry",
-  ];
+  "Ainsley… this is the worst day of my life 😭",
+  "My heart just shattered, Ainsley 💔",
+  "I’m officially heartbroken, Ainsley 😩",
+  "Wow… pain. Just pain. Thanks, Ainsley 🥲",
+  "Okay okay… I’ll survive if you click Yes 😭👉",
+];
   
   function normal() {
     var absImg = document.getElementById("absImg");
