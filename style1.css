@@ -989,3 +989,21 @@ body {
 .not-loaded * {
   animation-play-state: paused !important;
 }/*# sourceMappingURL=style.css.map */
+
+/* --- DISABLE FLOWERS --- */
+.flowers,
+.flower,
+.growing-grass,
+.grow-ans,
+.long-g,
+.flower__leafs,
+.flower__leaf,
+.flower__line,
+.flower__light,
+.flower__grass,
+.flower__g-long,
+.flower__g-right,
+.flower__g-front,
+.flower__g-fr {
+  display: none !important;
+}
